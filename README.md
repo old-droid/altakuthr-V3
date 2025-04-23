@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Configuration
 1. Set up Ollama server
 2. Create `.env` file with Obsidian vault path
-3. Run `python telepathyfinal.py`
+3. Run 'telepathyV2.py`
 
 ## Usage
 - Runs continuous automation loop
